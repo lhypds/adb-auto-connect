@@ -8,6 +8,7 @@ A adb auto connect script for Windows powershell.
 How to use
 ----------
 
-1. connect all your Android device to PC
-2. run script with powershell
-3. You're set to free.
+1. Connect all your Android device to PC with cable
+2. Connect them to WIFI local network
+3. Run script with powershell
+4. You're set to free
